@@ -1,2 +1,2 @@
 # site-modelo
-Site em PHP e PHP Orientado Objeto
+Site em PHP PDO
