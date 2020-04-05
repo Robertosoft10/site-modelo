@@ -1,0 +1,13 @@
+#login-link{
+  position: absolute;
+  text-align: right;
+  margin-left: 50%;
+}
+#loginErro{
+  font-size: 13pt;
+  color: firebrick;
+}
+#loginAcerto{
+  font-size: 13pt;
+  color: green;
+}
